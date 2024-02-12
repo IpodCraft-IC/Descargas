@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Establece la versión a instalar del servidor
-# Lista de versiones: 
+# Lista de versiones: https://ipodcraft.pages.dev/servers/crear-server-bds-con-github-codespace
 bds_version="1.20.61.01"
 
 # Establece si quieres descargar versiones oficiales o versiones beta/preview
